@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Homework4</string>
+    <string name="app_name">Homework 4</string>
+    <string name="artist_name">Artist Name</string>
+    <string name="song_title">Song Title</string>
 </resources>
