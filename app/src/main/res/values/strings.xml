@@ -2,4 +2,9 @@
     <string name="app_name">Homework 4</string>
     <string name="artist_name">Artist Name</string>
     <string name="song_title">Song Title</string>
+    <string name="artist_name_actual">Rolemusic</string>
+    <string name="song_title_actual">The Pirate And The Dancer</string>
+
+    <string name="download_mp3">Download MP3</string>
+    <string name="exit">Exit</string>
 </resources>
